@@ -10,7 +10,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://https://ulf426-2021.vercel.app/",
+        "APP_URL": "https://bot.laravel-livewire.comm",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
